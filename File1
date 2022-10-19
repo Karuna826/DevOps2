@@ -5,3 +5,4 @@ c=d
 print d
 e=c+d
 print e
+f=e*c
